@@ -6,3 +6,4 @@ tensorflow
 matplotlib
 six
 numpy
+Pillow==9.5.0
